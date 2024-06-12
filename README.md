@@ -180,13 +180,13 @@ all samples.
 GVB_histogram(data = merged_3samples_gvb, geneSymbol = "CACNA1I")
 ```
 
-![1](https://github.com/mureal-bioinfo/GVB/assets/42491429/ded95b72-6e4d-447e-bf97-c0b5262cbac6)
+![1](https://github.com/mureal-bioinfo/GVB/assets/42491429/c2b689b0-e927-4d25-9fa9-266bda125659)
 ``` r
 #plot histogram for CACNA1I gene from merged GVB data for 100 samples
 GVB_histogram(data = merged_gvb, geneSymbol = "CACNA1I")
 ```
 
-![2](https://github.com/mureal-bioinfo/GVB/assets/42491429/545bd7f3-23ae-46bb-b00a-7cf6df0e7358)
+![2](https://github.com/mureal-bioinfo/GVB/assets/42491429/bcd4dec5-c8f1-4dca-9885-3e04c4ed7659)
 
 ### 9. Session Info
 
