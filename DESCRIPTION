@@ -1,0 +1,20 @@
+Package: GVB
+Title: GVB - Gene-wise Variant Burden
+Version: 1.0.0
+Authors@R: 
+    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
+           comment = c(ORCID = "YOUR-ORCID-ID"))
+Description: Gene-wise Variant Burden(GVB) is an integrated gene-level measure 
+    of the cumulative impact of the multitude of deleterious variants 
+    on a given gene in a population data-free manner. 
+    The 'GVB' package facilitates preprocessing and calculation of GVB scores. 
+    In addition, it supports visualization of GVB scores.
+License: `use_mit_license()`, `use_gpl3_license()` or friends to pick a
+    license
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.2.3
+Imports: psych, dplyr, magrittr
+Depends: 
+    R (>= 2.10)
+LazyData: true
